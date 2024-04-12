@@ -15,8 +15,6 @@ export function AccountMenu(){
         <DropdownMenuLabel className="flex flex-col">
           <span>Empresa 01</span>
           <span className="text-xs font-normal text-muted-foreground">contato@mail.com</span>
-          {/* <span>Empresa 02</span>
-          <span>Empresa</span> */}
         </DropdownMenuLabel>
         <DropdownMenuSeparator/>
         <DropdownMenuItem>

@@ -1,4 +1,4 @@
-import { Accessibility, Cake, Home, UtensilsCrossed } from 'lucide-react';
+import { Cake, Home, UtensilsCrossed } from 'lucide-react';
 import { Separator } from "./ui/separator.tsx";
 import { Link } from 'react-router-dom';
 import { NavLink } from './nav-link.tsx';
